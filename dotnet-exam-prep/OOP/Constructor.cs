@@ -1,8 +1,16 @@
+// Demo of Constructor and Finalizer (deconstructor)
+
+//  Constructor is a special method that is invoked whenever a new object of a class is created. 
+
+// Finalizers, also known as destructors . Their purpose is to potentially perform cleanup tasks 
+// before an object is  garbage collected by the runtime system
+
 class Rectangle
 {
     private double length;
     private double breadth;
 
+    // Constructor with two parameters
     public Rectangle(double l, double b)
     {
         this.length = l;
@@ -15,6 +23,8 @@ class Rectangle
         return length * breadth;
     }
 
+
+    // finalizer for Rectangle Class
     ~Rectangle()
     {
         Console.WriteLine("Rectangle Destroyed.");
