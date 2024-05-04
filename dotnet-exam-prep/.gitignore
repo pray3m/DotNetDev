@@ -1,0 +1,20 @@
+# Ignore Visual Studio files
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.ide
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nuget.cache
+packages/
+
+# Ignore miscellaneous files
+*.DS_Store
+Thumbs.db
