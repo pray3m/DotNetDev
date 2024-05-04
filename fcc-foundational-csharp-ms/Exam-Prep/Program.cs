@@ -4,4 +4,7 @@
 // SingleInheritance.Main();
 // MultilevelInheritance.Main();
 // HeirarichalInheritance.Main();
-MultipleInheritance.Main();
+// MultipleInheritance.Main();
+// RectangleConstructor.Main();
+// Calculator.Main();
+// LINQProducts.Main();
