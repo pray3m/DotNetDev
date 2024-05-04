@@ -9,3 +9,5 @@
 // Calculator.Main();
 // LINQProducts.Main();
 
+CrudApp.Main();
+
