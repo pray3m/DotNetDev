@@ -10,6 +10,7 @@
 # Ignore build output
 bin/
 obj/
+*bin/
 
 # Ignore NuGet packages
 *.nuget.cache
