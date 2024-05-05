@@ -40,6 +40,6 @@ class RectangleConstructor
         double area = rectangle.calcArea();
         Console.WriteLine("Area of rectangle is : {0}", area);
 
-        // deconstructor would be called automatically when the object is no longer in use
+        // destructor would be called automatically when the object is no longer in use
     }
 }
