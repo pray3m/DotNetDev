@@ -10,11 +10,13 @@
 // RectangleConstructor.Main();
 // Deconstructor.Main();
 // Properties.Main();
-IndexerClass.Main();
+// IndexerClass.Main();
 // SingleInheritance.Main();
 // MultilevelInheritance.Main();
 // HeirarichalInheritance.Main();
 // MultipleInheritance.Main();
+// MethodOverriding.Main();
+
 
 
 // ============= Advanced ==================

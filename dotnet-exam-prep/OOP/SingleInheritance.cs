@@ -1,6 +1,6 @@
 using System;
 
-class Animal
+class Animal2
 {
     public void makeSound()
     {
@@ -8,7 +8,7 @@ class Animal
     }
 }
 
-class Dog : Animal // inherits from Animal
+class Dog2 : Animal2 // inherits from Animal
 {
     public void Bark()
     {
@@ -20,7 +20,7 @@ public class SingleInheritance
 {
     public static void Main()
     {
-        Dog myDog = new Dog();
+        Dog2 myDog = new Dog2();
         myDog.makeSound(); // Animal makes a sound
         myDog.Bark(); // Wooof !
     }
