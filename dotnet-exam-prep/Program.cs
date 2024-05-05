@@ -19,14 +19,15 @@
 // MethodOverloading.Main();
 // UnaryOverloading.Main();
 // BinaryOperatorOverloading.Main();
-RelationalOverload.Main();
+// RelationalOverload.Main();
+Enums.Main();
 
 
 // ============= Advanced ==================
 // SingleCastDelegate.Main();
 // MultiCastDelegate.Main();
 // LINQProducts.Main();
-
+// LambdaExpression.Main();
 
 // ============= crud ==================
 // CrudApp.Main();
