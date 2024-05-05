@@ -1,5 +1,7 @@
+// LINQ - Langugae Integrated Query
+
 using System;
-// using System.Collections.Generic;
+using System.Collections.Generic;
 
 class LINQProducts
 {
@@ -22,7 +24,7 @@ class LINQProducts
                                                  where product.Price > 20
                                                  orderby product.Price descending
                                                  select product;
-                                                 
+
 
         Console.WriteLine("Expensive Products (Query Expression):");
         foreach (Product product in expensiveProducts)

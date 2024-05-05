@@ -1,4 +1,4 @@
-// Demo of Constructor and Finalizer (deconstructor)
+// Demo of Constructor and Finalizer (destructor)
 
 //  Constructor is a special method that is invoked whenever a new object of a class is created. 
 

@@ -2,7 +2,8 @@
 // Uncomment the class you want to run!
 
 // ============= Basics ==================
-
+// RectangularArray.Main();
+JaggedArray.Main();
 
 
 // ============= OOP ==================
@@ -15,7 +16,7 @@
 
 // ============= Advanced ==================
 // SingleCastDelegate.Main();
-MultiCastDelegate.Main();
+// MultiCastDelegate.Main();
 // LINQProducts.Main();
 
 
