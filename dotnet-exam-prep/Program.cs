@@ -14,7 +14,8 @@
 
 
 // ============= Advanced ==================
-SingleCastDelegate.Main();
+// SingleCastDelegate.Main();
+MultiCastDelegate.Main();
 // LINQProducts.Main();
 
 
