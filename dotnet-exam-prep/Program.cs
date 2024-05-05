@@ -16,7 +16,7 @@
 // HeirarichalInheritance.Main();
 // MultipleInheritance.Main();
 // MethodOverriding.Main();
-
+MethodOverloading.Main();
 
 
 // ============= Advanced ==================
