@@ -1,13 +1,27 @@
 ﻿
 // Uncomment the class you want to run!
 
+// ============= Basics ==================
+
+
+
+// ============= OOP ==================
+// RectangleConstructor.Main();
 // SingleInheritance.Main();
 // MultilevelInheritance.Main();
 // HeirarichalInheritance.Main();
 // MultipleInheritance.Main();
-// RectangleConstructor.Main();
-// Calculator.Main();
+
+
+// ============= Advanced ==================
+SingleCastDelegate.Main();
 // LINQProducts.Main();
 
-CrudApp.Main();
+
+// ============= crud ==================
+// CrudApp.Main();
+
+
+
+
 
