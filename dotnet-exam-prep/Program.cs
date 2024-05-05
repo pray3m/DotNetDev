@@ -9,7 +9,8 @@
 // ============= OOP ==================
 // RectangleConstructor.Main();
 // Deconstructor.Main();
-Properties.Main();
+// Properties.Main();
+IndexerClass.Main();
 // SingleInheritance.Main();
 // MultilevelInheritance.Main();
 // HeirarichalInheritance.Main();
