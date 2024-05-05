@@ -3,11 +3,12 @@
 
 // ============= Basics ==================
 // RectangularArray.Main();
-JaggedArray.Main();
+// JaggedArray.Main();
 
 
 // ============= OOP ==================
 // RectangleConstructor.Main();
+Deconstructor.Main();
 // SingleInheritance.Main();
 // MultilevelInheritance.Main();
 // HeirarichalInheritance.Main();
@@ -22,7 +23,6 @@ JaggedArray.Main();
 
 // ============= crud ==================
 // CrudApp.Main();
-
 
 
 
