@@ -20,7 +20,9 @@
 // UnaryOverloading.Main();
 // BinaryOperatorOverloading.Main();
 // RelationalOverload.Main();
-Enums.Main();
+// Enums.Main();
+// GenericClass.Main();
+GenericMethod.Main();
 
 
 // ============= Advanced ==================
@@ -28,9 +30,13 @@ Enums.Main();
 // MultiCastDelegate.Main();
 // LINQProducts.Main();
 // LambdaExpression.Main();
+// EventsDemo.Main();
+// ButtonClickEvent.Main();
+
 
 // ============= crud ==================
 // CrudApp.Main();
+
 
 
 
